@@ -1,6 +1,5 @@
 # AiZynthFinder
 
-[![License](https://img.shields.io/github/license/MolecularAI/aizynthfinder)](https://github.com/MolecularAI/aizynthfinder/blob/master/LICENSE)
 [![Tests](https://github.com/MolecularAI/aizynthfinder/workflows/tests/badge.svg)](https://github.com/MolecularAI/aizynthfinder/actions?workflow=tests)
 [![codecov](https://codecov.io/gh/MolecularAI/aizynthfinder/branch/master/graph/badge.svg)](https://codecov.io/gh/MolecularAI/aizynthfinder)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black) 
@@ -128,10 +127,6 @@ Please use ``black`` package for formatting, and follow ``pep8`` style guide.
 * [@benteb](https://www.github.com/benteb)
 
 The contributors have limited time for support questions, but please do not hesitate to submit an issue (see above).
-
-## License
-
-The software is licensed under the MIT license (see LICENSE file), and is free and provided as-is.
 
 ## References
 
