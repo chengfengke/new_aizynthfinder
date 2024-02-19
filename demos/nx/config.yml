@@ -1,0 +1,11 @@
+expansion:
+  uspto:
+    - D:\MyWebProject\work\test\data\uspto_model.onnx
+    - D:\MyWebProject\work\test\data\uspto_templates.csv.gz
+  ringbreaker:
+    - D:\MyWebProject\work\test\data\uspto_ringbreaker_model.onnx
+    - D:\MyWebProject\work\test\data\uspto_ringbreaker_templates.csv.gz
+filter:
+  uspto: D:\MyWebProject\work\test\data\uspto_filter_model.onnx
+stock:
+  zinc: D:\MyWebProject\work\test\data\zinc_stock_17_04_20.hdf5
