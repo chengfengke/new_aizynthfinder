@@ -4,7 +4,7 @@ from aizynthfinder.aizynthfinder import AiZynthFinder
 from aizynthfinder.context.scoring.scorers import StateScorer
 
 # 初始化 AiZynthFinder
-filename = "config.yml"
+filename = "../../configs/demos_nx_config.yml"
 finder = AiZynthFinder(filename)
 
 # 选择库存、扩展策略和过滤策略
