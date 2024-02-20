@@ -1,11 +1,11 @@
 expansion:
   uspto:
-    - D:\MyWebProject\new_aizynthfinder\model_database\uspto_model.onnx
-    - D:\MyWebProject\new_aizynthfinder\model_database\uspto_templates.csv.gz
+    - \model_database\uspto_model.onnx
+    - \model_database\uspto_templates.csv.gz
   ringbreaker:
-    - D:\MyWebProject\new_aizynthfinder\model_database\uspto_ringbreaker_model.onnx
-    - D:\MyWebProject\new_aizynthfinder\model_database\uspto_ringbreaker_templates.csv.gz
+    - \model_database\uspto_ringbreaker_model.onnx
+    - \model_database\uspto_ringbreaker_templates.csv.gz
 filter:
-  uspto: D:\MyWebProject\new_aizynthfinder\model_database\uspto_filter_model.onnx
+  uspto: \model_database\uspto_filter_model.onnx
 stock:
-  zinc: D:\MyWebProject\new_aizynthfinder\model_database\zinc_stock.hdf5
+  zinc: \model_database\zinc_stock.hdf5

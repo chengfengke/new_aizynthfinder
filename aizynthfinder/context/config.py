@@ -79,9 +79,9 @@ class Configuration:
         for key, setting in vars(self).items():
             if isinstance(setting, (int, float, str, bool, list)):
                 if (
-                    vars(self)[key] != vars(other)[key]
-                    or self.search != other.search
-                    or self.post_processing != other.post_processing
+                        vars(self)[key] != vars(other)[key]
+                        or self.search != other.search
+                        or self.post_processing != other.post_processing
                 ):
                     return False
         return True
@@ -135,7 +135,39 @@ class Configuration:
                 raise ValueError(f"'{item[2:-1]}' not in environment variables")
             txt = txt.replace(item, os.environ[item[2:-1]])
         _config = yaml.load(txt, Loader=yaml.SafeLoader)
+
+        start_dir = os.getcwd()
+        current_dir = start_dir
+        while True:
+            git_dir = os.path.join(current_dir, '.git')
+            if os.path.exists(git_dir) and os.path.isdir(git_dir):
+                break
+            parent_dir = os.path.dirname(current_dir)
+            if parent_dir == current_dir:
+                print('请使用git进行项目管理')
+            current_dir = parent_dir
+
+        # 拼接绝对路径
+        Configuration._update_paths(_config, current_dir)
         return Configuration.from_dict(_config)
+
+    # 拼接工作路径
+    @staticmethod
+    def _update_paths(config, path_prefix):
+        if isinstance(config, dict):
+            for key, value in config.items():
+                if isinstance(value, list):
+                    config[key] = [os.path.join(path_prefix, item.lstrip('\\')) for item in value]
+                elif isinstance(value, str) and value.startswith('\\'):
+                    config[key] = os.path.join(path_prefix, value.lstrip('\\'))
+                else:
+                    Configuration._update_paths(value, path_prefix)
+        elif isinstance(config, list):
+            for i, item in enumerate(config):
+                if isinstance(item, str) and item.startswith('\\'):
+                    config[i] = os.path.join(path_prefix, item.lstrip('\\'))
+                else:
+                    Configuration._update_paths(item, path_prefix)
 
     def _update_from_config(self, config: StrDict) -> None:
         self.post_processing = _PostprocessingConfiguration(
