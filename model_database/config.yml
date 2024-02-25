@@ -1,14 +1,17 @@
 expansion:
   uspto:
-    - C:/Users/77936/Desktop/MetooRetro/data/uspto_model.onnx
-    - C:/Users/77936/Desktop/MetooRetro/data/uspto_unique_templates.csv
+    - \model_database\uspto_model.onnx
+    - \model_database\uspto_templates.csv.gz
   ringbreaker:
-    - C:/Users/77936/Desktop/MetooRetro/data/uspto_ringbreaker_model.onnx
-    - C:/Users/77936/Desktop/MetooRetro/data/uspto_ringbreaker_templates.csv.gz
+    - \model_database\uspto_ringbreaker_model.onnx
+    - \model_database\uspto_ringbreaker_templates.csv.gz
   change:
-    - C:/Users/77936/Desktop/MetooRetro/data/uspto_ringbreaker_model.onnx
-    - C:/Users/77936/Desktop/MetooRetro/data/new_data.csv
+    - \model_database\uspto_ringbreaker_model.onnx
+    - \model_database\new_data.csv
+  uspto_condition:
+    - \model_database\uspto_model.onnx
+    - \model_database\uspto_templates.csv
 filter:
-  uspto: C:/Users/77936/Desktop/MetooRetro/data/uspto_filter_model.onnx
+  uspto: \model_database\uspto_filter_model.onnx
 stock:
-  zinc: C:/Users/77936/Desktop/MetooRetro/data/zinc_stock.hdf5
+  zinc: \model_database\zinc_stock.hdf5
