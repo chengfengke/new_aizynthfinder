@@ -4,12 +4,12 @@ from aizynthfinder.aizynthfinder import AiZynthFinder
 from aizynthfinder.context.scoring.scorers import StateScorer
 
 # 初始化 AiZynthFinder
-filename = "../../configs/demos_nx_config.yml"
+filename = "../../model_database/config.yml"
 finder = AiZynthFinder(filename)
 
 # 选择库存、扩展策略和过滤策略
 finder.stock.select("zinc")
-finder.expansion_policy.select("uspto")
+finder.expansion_policy.select("uspto_condition")
 finder.filter_policy.select("uspto")
 
 # 设置目标 SMILES
@@ -40,9 +40,6 @@ for idx, score in enumerate(route_scores):
 first_route_info = finder.routes[0]
 print("First route metadata:", first_route_info['route_metadata'])
 print("First route score already calculated:", first_route_info['score'])
-
-plt.imshow(finder.routes.make_images()[0])
-plt.show()
 
 plt.imshow(finder.routes.reaction_trees[0].to_image())
 plt.show()

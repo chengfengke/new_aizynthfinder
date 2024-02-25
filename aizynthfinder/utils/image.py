@@ -364,6 +364,7 @@ class RouteImageFactory:
             "image": self._image_lookup[tree_dict["smiles"]],
         }
         if tree_dict.get("children"):
+            dict_["condition"] = tree_dict.get("children")[0]["metadata"]["conditions"]
             dict_["children"] = [
                 self._extract_mol_tree(grandchild)
                 for grandchild in tree_dict.get("children")[0]["children"]  # type: ignore
@@ -388,6 +389,7 @@ class RouteImageFactory:
         mid_x = children_right + int(0.5 * (tree_dict["left"] - children_right))
         mid_y = tree_dict["top"] + int(tree_dict["image"].height * 0.5)
 
+        print(tree_dict)
         self._draw.line((tree_dict["left"], mid_y, mid_x, mid_y), fill="black")
         for child in children:
             self._make_image(child)
@@ -406,3 +408,11 @@ class RouteImageFactory:
         self._draw.ellipse(
             (mid_x - 8, mid_y - 8, mid_x + 8, mid_y + 8), fill="black", outline="black"
         )
+        # 在连接线上添加反应条件文本标注
+        reaction_condition = tree_dict.get("condition")
+        if reaction_condition:  # 如果存在反应条件，就在中间位置标注
+            # 计算文本位置
+            text_pos_x = mid_x + 20
+            text_pos_y = mid_y - 10
+            self._draw.text((text_pos_x, text_pos_y), str(reaction_condition), fill="black")
+
