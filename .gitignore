@@ -144,3 +144,9 @@ coverage/
 smiles.txt
 config_local.yml
 devtools/seldon-output-*/
+
+# Model and Database
+model_database/*.hdf5
+model_database/*.onnx
+model_database/*.gz
+model_database/*.csv
