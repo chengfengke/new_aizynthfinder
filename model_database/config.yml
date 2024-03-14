@@ -1,0 +1,11 @@
+expansion:
+  change:
+    - \model_database\uspto_ringbreaker_model.onnx
+    - \model_database\new_data.csv
+  uspto_condition:
+    - \model_database\uspto_model.onnx
+    - \model_database\uspto_templates.csv
+filter:
+  uspto: \model_database\uspto_filter_model.onnx
+stock:
+  zinc: \model_database\zinc_stock.hdf5
