@@ -16,6 +16,7 @@ from rdkit.Chem import Draw
 
 from aizynthfinder.chem import Molecule
 from aizynthfinder.utils.paths import data_path
+from aizynthfinder.utils.test_model import condition_pred
 
 if TYPE_CHECKING:
     import networkx as nx
@@ -38,6 +39,34 @@ if TYPE_CHECKING:
 
 IMAGE_FOLDER = tempfile.mkdtemp()
 
+def update_condition(d):
+    # 如果当前节点是叶子节点，直接返回
+    if 'children' not in d:
+        return
+    
+    # 初始化用于存储合并后的 Smiles 字符串的列表
+    smiles_list = []
+    
+    # 遍历当前节点的子节点
+    for child in d['children']:
+        # 递归调用 update_condition 函数来处理子节点
+        update_condition(child)
+        
+        # 获取子节点的 Smiles 字符串
+        child_smiles = child.get('smiles', None)
+        
+        # 如果子节点的 Smiles 字符串存在，添加到列表中
+        if child_smiles:
+            smiles_list.append(child_smiles)
+    
+    # 将列表中的 Smiles 字符串连接起来，以 '>>' 分隔
+    merged_smiles = '.'.join(smiles_list)
+    
+    # 将合并后的 Smiles 字符串设置为当前节点的 condition
+    sml = merged_smiles
+    sml = merged_smiles + ">>" + d['smiles']
+    ans = condition_pred(sml)
+    d['condition'] = ans
 
 @atexit.register
 def _clean_up_images() -> None:
@@ -288,7 +317,7 @@ class RouteImageFactory:
 
         self._mol_tree = self._extract_mol_tree(route)
         self._add_effective_size(self._mol_tree)
-
+        update_condition(self._mol_tree)
         pos0 = (
             self._mol_tree["eff_width"] - self._mol_tree["image"].width + self.margin,
             int(self._mol_tree["eff_height"] * 0.5)
@@ -370,6 +399,8 @@ class RouteImageFactory:
                 for grandchild in tree_dict.get("children")[0]["children"]  # type: ignore
                 if not (grandchild.get("hide", False) and not self.show_all)
             ]
+
+        print(dict_["smiles"])
         return dict_
 
     def _extract_molecules(self, tree_dict: StrDict) -> None:
@@ -389,7 +420,7 @@ class RouteImageFactory:
         mid_x = children_right + int(0.5 * (tree_dict["left"] - children_right))
         mid_y = tree_dict["top"] + int(tree_dict["image"].height * 0.5)
 
-        print(tree_dict)
+        #print(tree_dict)
         self._draw.line((tree_dict["left"], mid_y, mid_x, mid_y), fill="black")
         for child in children:
             self._make_image(child)

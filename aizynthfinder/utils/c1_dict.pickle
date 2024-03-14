@@ -1,0 +1,2411 @@
+(dp0
+I0
+S''
+p1
+sI1
+VOn1nnc2ccccc21
+p2
+sI2
+V[H][C@@]12O[C@@]3([H])O[C@H](CO)[C@@]([H])(O[C@@]4([H])O[C@H](CO)[C@@]([H])(O[C@@]5([H])O[C@H](CO)[C@@]([H])(O[C@@]6([H])O[C@H](CO)[C@@]([H])(O[C@@]7([H])O[C@H](CO)[C@@]([H])(O[C@@]8([H])O[C@H](CO)[C@@]([H])(O[C@@]([H])(O[C@@H]1CO)[C@H](O)[C@H]2O)[C@H](O)[C@H]8O)[C@H](O)[C@H]7O)[C@H](O)[C@H]6O)[C@H](O)[C@H]5O)[C@H](O)[C@H]4O)[C@H](O)[C@H]3O
+p3
+sI3
+VO=C(O)C1CCCN1
+p4
+sI4
+VO=C(O)[C@@H]1CCCN1
+p5
+sI5
+VC1CCNCC1
+p6
+sI6
+Vc1ccncc1
+p7
+sI7
+VC1CN2CCN1CC2
+p8
+sI8
+Vc1c[nH]cn1
+p9
+sI9
+VCN(C)c1ccncc1
+p10
+sI10
+VC1=CC(N2CCCC2)=CC=N1
+p11
+sI11
+VCc1ccc(S(=O)(=O)O)cc1
+p12
+sI12
+VCC(=O)O
+p13
+sI13
+VC1CCC2=NCCCN2CC1
+p14
+sI14
+VCCN(CC)CC
+p15
+sI15
+VCCN(C(C)C)C(C)C
+p16
+sI16
+VCN(C)C=O
+p17
+sI17
+VOC1=CC=C(O)C=C1
+p18
+sI18
+Vc1ccc(P(c2ccccc2)c2ccccc2)cc1
+p19
+sI19
+VO=C(O)C1=C(O)C=CC(S(=O)(=O)O)=C1
+p20
+sI20
+VO=C(O)C(F)(F)F
+p21
+sI21
+VO=S(=O)(O)c1ccccc1
+p22
+sI22
+VCC(C)(C)O
+p23
+sI23
+VOCCCO
+p24
+sI24
+VO=C(OOC(=O)C1=CC=CC=C1)C1=CC=CC=C1
+p25
+sI25
+VCl
+p26
+sI26
+VCl[Cu]
+p27
+sI27
+VS=C=S
+p28
+sI28
+VC1=CC2=C(C=C1)OCCOCCOC1=C(C=CC=C1)OCCOCCO2
+p29
+sI29
+VC[Si](C)(C)Cl
+p30
+sI30
+VCl[AlH3](Cl)Cl
+p31
+sI31
+VO=CO
+p32
+sI32
+VO=[Se]=O
+p33
+sI33
+V[O-][Cl+3]([O-])([O-])O
+p34
+sI34
+VCS(=O)(=O)O
+p35
+sI35
+VC1COCCOCCOCCOCCO1
+p36
+sI36
+VC1COCCOCCOCCOCCOCCO1
+p37
+sI37
+VCC(C)(C#N)N=NC(C)(C)C#N
+p38
+sI38
+VCOC(C)(C)CC(C)(C#N)N=NC(C)(C#N)CC(C)(C)OC
+p39
+sI39
+VCCB(CC)CC
+p40
+sI40
+VCCCCP(CCCC)CCCC
+p41
+sI41
+VO=S(=O)(O)C(F)(F)F
+p42
+sI42
+VC[Si](C)(C)OS(=O)(=O)C(F)(F)F
+p43
+sI43
+VO=P(O)(O)O
+p44
+sI44
+VO=S(=O)(O)O
+p45
+sI45
+VCC(C)(C)C1=CC=C(C2=CC=C(C(C)(C)C)C=C2)C=C1
+p46
+sI46
+VCC1(C)C2CCC1(CS(=O)(=O)O)C(=O)C2
+p47
+sI47
+S'CC[O+](CC)[B-](F)(F)F'
+p48
+sI48
+VFC(F)(F)C1=CC(NC(=S)NC2=CC(C(F)(F)F)=CC(C(F)(F)F)=C2)=CC(C(F)(F)F)=C1
+p49
+sI49
+VFC1=C(F)C(F)=C(B(C2=C(F)C(F)=C(F)C(F)=C2F)C2=C(F)C(F)=C(F)C(F)=C2F)C(F)=C1F
+p50
+sI50
+VCl[Zn]Cl
+p51
+sI51
+VFB(F)F
+p52
+sI52
+VCl[Sb](Cl)(Cl)(Cl)Cl
+p53
+sI53
+VCCO[V](=O)(Cl)Cl
+p54
+sI54
+VCC(C)(C)[O-].[K+]
+p55
+sI55
+VN#C[S-].[Cu+]
+p56
+sI56
+VCC(=O)[O-].[Zn+2]
+p57
+sI57
+VCC(=O)[O-].[Hg+2]
+p58
+sI58
+VCCCC[N+](CCCC)(CCCC)CCCC.[F-]
+p59
+sI59
+VCCCC[N+](CCCC)(CCCC)CCCC.[Br-]
+p60
+sI60
+VCCCC[N+](CCCC)(CCCC)CCCC.[Cl-]
+p61
+sI61
+VCCCC[N+](CCCC)(CCCC)CCCC.[H][O-]
+p62
+sI62
+VCC[N+](CC)(CC)CC1=CC=CC=C1.[Cl-]
+p63
+sI63
+VO
+p64
+sI64
+V[Cr]
+p65
+sI65
+VBr
+p66
+sI66
+V[Cu]
+p67
+sI67
+V[Ag]
+p68
+sI68
+VII
+p69
+sI69
+VCC[Zn]CC
+p70
+sI70
+VN#C[Cu]
+p71
+sI71
+VC[O-].[Na+]
+p72
+sI72
+VCC[O-].[Na+]
+p73
+sI73
+VCC(=O)[O-].[Ag+]
+p74
+sI74
+VCC(=O)[O-].[Cu+2]
+p75
+sI75
+VCC(=O)[O-].[PbH8+4]
+p76
+sI76
+VOCl(=O)(=O)=O.[Li+]
+p77
+sI77
+VCCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-]
+p78
+sI78
+VO=S(=O)([O-])C(F)(F)F.[Ag+]
+p79
+sI79
+VCC1=CC=C(S(=O)(=O)[O-])C=C1.[Ag+]
+p80
+sI80
+VCCCC[N+](CCCC)(CCCC)CCCC.O=S(=O)([O-])O
+p81
+sI81
+VCN(C)C1=CC=C2N=C3C=CC(N(C)C)=CC3=[S+]C2=C1.[Cl-]
+p82
+sI82
+V[Ag]
+p83
+sI83
+VCC(=O)[O-].[Pd+2]
+p84
+sI84
+V[Ag+].[O][Cl+3]([O-])([O-])[O-]
+p85
+sI85
+VO=C([O-])C(F)(F)F.[Hg+2]
+p86
+sI86
+VO=C([O-])C(F)(F)F.[Ag+]
+p87
+sI87
+VO=C([O-])C1=CC=CC=C1.[Ag+]
+p88
+sI88
+V[Fe]
+p89
+sI89
+VC1=CC=C([C+](C2=CC=CC=C2)C2=CC=CC=C2)C=C1.O=Cl(=O)(=O)[O-]
+p90
+sI90
+S'O=[V](=O)O[V](=O)=O'
+p91
+sI91
+S'Reaxys ID 3659913'
+p92
+sI92
+S'[F-].[Ag+]'
+p93
+sI93
+S'O.O=[Pd]'
+p94
+sI94
+VI[Ti](I)(I)I
+p95
+sI95
+VCl[Nb](Cl)(Cl)(Cl)Cl
+p96
+sI96
+VCl[Mo](Cl)(Cl)(Cl)Cl
+p97
+sI97
+VO=[Zr](Cl)Cl
+p98
+sI98
+VCC[O-].[Ti+4]
+p99
+sI99
+VCC[AlH3](Cl)Cl
+p100
+sI100
+V[C-]#N.[Cu+]
+p101
+sI101
+VCC(C)[O-].[Ti+4]
+p102
+sI102
+VN#C[Hg]C#N
+p103
+sI103
+VCC[AlH3](Cl)CC
+p104
+sI104
+VCC(=O)O.FB(F)F
+p105
+sI105
+VCC(=O)O.FB(F)F
+p106
+sI106
+VCC(=O)[O-].[Co+2]
+p107
+sI107
+VCC(=O)[O-].[Ni+2]
+p108
+sI108
+VCC(=O)[O-].[Cd+2]
+p109
+sI109
+VCC(=O)[O-].[Co+3]
+p110
+sI110
+VCC(=O)[O-].[Mn+3]
+p111
+sI111
+VCC(=O)[O-].[Cu+]
+p112
+sI112
+VC1=CC=C(P(C2=CC=CC=C2)C2=CC=CC=C2)C=C1.Cl[Pd]Cl
+p113
+sI113
+VCC(=O)[O-].[Cu+2].[H]O[H]
+p114
+sI114
+VCC(=O)[O-].[H]O[H].[Ni+2]
+p115
+sI115
+VCC(=O)[O-].[Co+2].[H]O[H]
+p116
+sI116
+VCC(=O)[O-].[H]O[H].[Zn+2]
+p117
+sI117
+VCC[N+](CC)(CC)CC1=CC=CC=C1.[Br-]
+p118
+sI118
+VCc1ccc(S(=O)(=O)O)cc1.c1ccncc1
+p119
+sI119
+VCC1=C(CCO)SC=[N+]1CC1=CC=CC=C1.[Cl-]
+p120
+sI120
+S'O=[Si]=O'
+p121
+sI121
+V[Cu]I
+p122
+sI122
+VI[Zn]I
+p123
+sI123
+S'[H]'
+p124
+sI124
+V[Fe]
+p125
+sI125
+V[Ce]
+p126
+sI126
+VCl[Fe](Cl)Cl
+p127
+sI127
+VF[Ti](F)(F)F
+p128
+sI128
+VCl[Ti](Cl)(Cl)Cl
+p129
+sI129
+VBr[Ti](Br)(Br)Br
+p130
+sI130
+VCl[Zr](Cl)(Cl)Cl
+p131
+sI131
+VCl[Sn](Cl)(Cl)Cl
+p132
+sI132
+VCl[Hf](Cl)(Cl)Cl
+p133
+sI133
+VCl[Pt](Cl)(Cl)Cl
+p134
+sI134
+VCl[Ta](Cl)(Cl)(Cl)Cl
+p135
+sI135
+VO=[V](Cl)(Cl)Cl
+p136
+sI136
+VO=[Cr](=O)(Cl)Cl
+p137
+sI137
+VReaxys Name permanganate(VII) ion
+p138
+sI138
+VCCCC[N+](CCCC)(CCCC)CCCC.[I-]
+p139
+sI139
+VO=C([O-])C(F)(F)F.[Cu+2]
+p140
+sI140
+VC[N+](C)(C)CC1=CC=CC=C1.[H][O-]
+p141
+sI141
+S'O=[Th]=O'
+p142
+sI142
+V[Co]
+p143
+sI143
+V[Yb]
+p144
+sI144
+VCl[Ti](Cl)Cl
+p145
+sI145
+VC[Re](=O)(=O)=O
+p146
+sI146
+VCC(C)(C)[O-].[Cu+]
+p147
+sI147
+V[C]=[N-].[Hg+2]
+p148
+sI148
+VC1=CC=C(P(C2=CC=CC=C2)C2=CC=CC=C2)C=C1.Cl[Ru]Cl
+p149
+sI149
+VO=S(=O)([O-])C(F)(F)F.[Cu+]
+p150
+sI150
+VO=S(=O)([O-])C(F)(F)F.[Zn+2]
+p151
+sI151
+VO=S(=O)([O-])C(F)(F)F.[Cu+2]
+p152
+sI152
+VO=S(=O)([O-])C(F)(F)F.[Hg+2]
+p153
+sI153
+VCCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.[Cl-]
+p154
+sI154
+VO=C([O-])C1=C(C2=C3C=C(I)C(=O)C(I)=C3OC3=C2C=C(I)C([O-])=C3I)C(Cl)=C(Cl)C(Cl)=C1Cl.[K+]
+p155
+sI155
+V[Fe]
+p156
+sI156
+V[Ni]
+p157
+sI157
+V[Cu]
+p158
+sI158
+V[Rh]
+p159
+sI159
+S'[H-].[Na+]'
+p160
+sI160
+VCl[W](Cl)(Cl)(Cl)(Cl)Cl
+p161
+sI161
+VO=[Mo](=O)(Cl)Cl
+p162
+sI162
+VCCCC[Sn](=O)CCCC
+p163
+sI163
+VCC(=O)[O-].[Cr+2]
+p164
+sI164
+VCC(C)(C)O[Zr](OC(C)(C)C)(OC(C)(C)C)OC(C)(C)C
+p165
+sI165
+VCCCCCCCCCCCC(=O)O[Sn](CCCC)(CCCC)OC(=O)CCCCCCCCCCC
+p166
+sI166
+VCCCCCCCCCCCCCCCC[P+](CCCC)(CCCC)CCCC.[Br-]
+p167
+sI167
+V[Au]
+p168
+sI168
+VO=C([O-])[O-].[K+]
+p169
+sI169
+VOCl(=O)(=O)=O.[Fe+3]
+p170
+sI170
+VOCl(=O)(=O)=O.[Cu+2]
+p171
+sI171
+VC
+p172
+sI172
+S'O=[Ti]=O'
+p173
+sI173
+V[O]N=O
+p174
+sI174
+VO=C([O-])[O-].[Cs+]
+p175
+sI175
+VON(=O)=O.[Cu+2]
+p176
+sI176
+VReaxys Name cadmium(II) sulphide
+p177
+sI177
+VReaxys Name manganese(III) acetylacetonate
+p178
+sI178
+VO=C=[Ni](=C=O)(=P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)=P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p179
+sI179
+VO=[W](=O)(O)O
+p180
+sI180
+VOS(O)(=O)=O.[Ag+]
+p181
+sI181
+VO=[N+]([O-])[O-].[Ag+]
+p182
+sI182
+V[Cu+2].[O]S([O])(=O)=O
+p183
+sI183
+VOS(O)(=O)=O.[Fe+2]
+p184
+sI184
+VOS(O)(=O)=O.[Hg+2]
+p185
+sI185
+S'Reaxys ID 4933984'
+p186
+sI186
+V[Pd]
+p187
+sI187
+VON(=O)=O.[Fe+3]
+p188
+sI188
+VI[Pd](C1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p189
+sI189
+VO=C[Cr](C=O)(C=O)(C=O)(C=O)C=O
+p190
+sI190
+VON(=O)=O.[La+3]
+p191
+sI191
+VO=[Si]=O
+p192
+sI192
+S'Reaxys ID 6122797'
+p193
+sI193
+S'[F-].[Cs+]'
+p194
+sI194
+VCN(C)C(ON1N=NC2=C1N=CC=C2)=[N+](C)C.FP(F)(F)(F)(F)F
+p195
+sI195
+V[Pt]
+p196
+sI196
+VCP(C)(C)[Ni](Cl)(Cl)P(C)(C)C
+p197
+sI197
+VC1=CC=C(P(C2=CC=CC=C2)C2=CC=CC=C2)C=C1.[Pd]
+p198
+sI198
+VO=C([O-])[O-].[Ag+]
+p199
+sI199
+VReaxys Name cobalt acetylacetonate
+p200
+sI200
+S'Reaxys ID 7240612'
+p201
+sI201
+VCCCC[N+](CCCC)(CCCC)CCCC.F[Si-](F)(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p202
+sI202
+S'[O--].[O--].[Zr+4]'
+p203
+sI203
+V[Hg]
+p204
+sI204
+S'[K+].[I-]'
+p205
+sI205
+S'[Na+].[I-]'
+p206
+sI206
+S'Cl[Au]'
+p207
+sI207
+VReaxys Name copper(l) chloride
+p208
+sI208
+S'O=[Mo](=O)=O'
+p209
+sI209
+S'Br[Co]Br'
+p210
+sI210
+S'Br[Hg]Br'
+p211
+sI211
+S'Cl[Co]Cl'
+p212
+sI212
+S'Cl[Hg]Cl'
+p213
+sI213
+S'Cl[Pt]Cl'
+p214
+sI214
+VReaxys Name tin(ll) chloride
+p215
+sI215
+S'[Ag+]'
+p216
+sI216
+S'O=[Cu]'
+p217
+sI217
+S'O=[Hg]'
+p218
+sI218
+S'O=[Zn]'
+p219
+sI219
+S'[Cl-].[Ag+]'
+p220
+sI220
+S'[Cu]Br'
+p221
+sI221
+S'[Li+].[Br-]'
+p222
+sI222
+S'I[Hg]I'
+p223
+sI223
+S'I[Pd]I'
+p224
+sI224
+S'[Zn++].[I-].[I-]'
+p225
+sI225
+VReaxys Name copper(ll) bromide
+p226
+sI226
+S'[Fe++].[Br-].[Br-]'
+p227
+sI227
+S'Br[Pd]Br'
+p228
+sI228
+S'[Cl-].[Cl-].[Cd++]'
+p229
+sI229
+S'Cl[Cu]Cl'
+p230
+sI230
+S'[Cl-].[Cl-].[Mn++]'
+p231
+sI231
+S'Cl[Ni]Cl'
+p232
+sI232
+S'Cl[Pd]Cl'
+p233
+sI233
+S'[Cl-].[Cl-].[Zn++]'
+p234
+sI234
+VReaxys Name silver(l) oxide
+p235
+sI235
+S'[Zn++].[Br-].[Br-]'
+p236
+sI236
+S'[Cd++].[I-].[I-]'
+p237
+sI237
+S'[Br-].[Br-].[Br-].[Br-].[Br-].[Nb+5]'
+p238
+sI238
+S'[Cl-].[Cl-].[Fe++]'
+p239
+sI239
+V[Cd]
+p240
+sI240
+V[Ru]
+p241
+sI241
+VO=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]
+p242
+sI242
+VReaxys Name papain
+p243
+sI243
+VReaxys Name lipase
+p244
+sI244
+VO=S(=O)([O-])C(F)(F)F.[Sc+3]
+p245
+sI245
+VO=S(=O)([O-])C(F)(F)F.[Eu+3]
+p246
+sI246
+VO=S(=O)([O-])C(F)(F)F.[Yb+3]
+p247
+sI247
+V[Zn]
+p248
+sI248
+VO=S(=O)([O-])C(F)(F)F.[La+3]
+p249
+sI249
+VCC(C)(C)/C([O-])=C/C(=O)C(F)(F)C(F)(F)C(F)(F)F.[Eu+3]
+p250
+sI250
+VO=C=[Mo](=C=O)(=C=O)(=C=O)(=C=O)=C=O
+p251
+sI251
+VCN(C)[C@@H]1CCCC[C@H]1NC(=S)NC1=CC(C(F)(F)F)=CC(C(F)(F)F)=C1
+p252
+sI252
+VReaxys Name Ledwith?Weitz salt
+p253
+sI253
+VCC1=CC(C)=C(C2=C3C=CC=CC3=[N+](C)C3=CC=CC=C32)C(C)=C1.O=Cl(=O)(=O)[O-]
+p254
+sI254
+VO=S(=O)([O-])C(F)(F)F.[Er+3]
+p255
+sI255
+VO=S(=O)([O-])C(F)(F)F.[Dy+3]
+p256
+sI256
+VO=S(=O)([O-])C(F)(F)F.[Gd+3]
+p257
+sI257
+VO=S(=O)([O-])C(F)(F)F.[Y+3]
+p258
+sI258
+VO=S(=O)([O-])C(F)(F)F.[Sm+3]
+p259
+sI259
+VO=S(=O)([O-])C(F)(F)F.[Nd+3]
+p260
+sI260
+VO=S(=O)([O-])C(F)(F)F.[Ce+3]
+p261
+sI261
+VCC(=O)[O-].[Rh+2]
+p262
+sI262
+VO=S(=O)([O-])C(F)(F)F.[Ga+3]
+p263
+sI263
+VO=S(=O)([O-])C(F)(F)F.[In+3]
+p264
+sI264
+VReaxys Name Rhizomucor miehei lipase
+p265
+sI265
+VO=S(=O)([O-])C(F)(F)F.[Bi+3]
+p266
+sI266
+VCC1=CC(C)=C(N2CCN(C3=C(C)C=C(C)C=C3C)C2[Ru](Cl)(Cl)(=CC2=CC=CC=C2)P(C2CCCCC2)(C2CCCCC2)C2CCCCC2)C(C)=C1
+p267
+sI267
+VO=S(=O)([O-])C(F)(F)F.[Ni+2]
+p268
+sI268
+VCl[Ru](Cl)(=CC1=CC=CC=C1)(P(C1CCCCC1)(C1CCCCC1)C1CCCCC1)P(C1CCCCC1)(C1CCCCC1)C1CCCCC1
+p269
+sI269
+S'Reaxys ID 10773094'
+p270
+sI270
+S'Reaxys ID 10773350'
+p271
+sI271
+S'Reaxys ID 10773351'
+p272
+sI272
+S'O=[Cr](=O)=O'
+p273
+sI273
+S'[OH2--].[Cu+].[Cu+]'
+p274
+sI274
+S'[Cl-].[Cl-].[Cr++]'
+p275
+sI275
+VCC(=O)O[Pb](OC(C)=O)(OC(C)=O)OC(C)=O
+p276
+sI276
+VCC(C)O[Ti](OC(C)C)(OC(C)C)OC(C)C
+p277
+sI277
+VCC(C)(C)O[Ti](OC(C)(C)C)(OC(C)(C)C)OC(C)(C)C
+p278
+sI278
+VCC(C)O[Ti](Cl)(OC(C)C)OC(C)C
+p279
+sI279
+VCCCCO[Ti](OCCCC)(OCCCC)OCCCC
+p280
+sI280
+S'O.O.O.O.O.O.O.O.O.[Fe+3].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O'
+p281
+sI281
+S'O.O.O.O.O.O.O.[Fe++].[O-][S]([O-])(=O)=O'
+p282
+sI282
+VO=[Pt]=O
+p283
+sI283
+S'[F-].[F-].[F-].[Fe+3]'
+p284
+sI284
+S'[Cl-].[Cl-].[Cl-].[Ga+3]'
+p285
+sI285
+S'[Cl-].[Cl-].[Cl-].[In+3]'
+p286
+sI286
+S'Reaxys ID 11323015'
+p287
+sI287
+VCl[Pt](Cl)(Cl)(Cl)(Cl)Cl.[H+]
+p288
+sI288
+S'O=[Ni]'
+p289
+sI289
+S'OCCCO'
+p290
+sI290
+VReaxys Name bis(norbornadiene)rhodium(I) tetrafluoroborate
+p291
+sI291
+S'O=[Ce]=O'
+p292
+sI292
+S'O=[Mn]=O'
+p293
+sI293
+S'Reaxys ID 11323292'
+p294
+sI294
+S'O=[Pt]=O'
+p295
+sI295
+S'O=[Ru]=O'
+p296
+sI296
+S'O=[Se]=O'
+p297
+sI297
+S'Reaxys ID 11323372'
+p298
+sI298
+S'O=[Al]O[Al]=O'
+p299
+sI299
+S'[Al+3].[Cl-].[Cl-].[Cl-]'
+p300
+sI300
+S'Cl[Bi](Cl)Cl'
+p301
+sI301
+S'[Cl-].[Cl-].[Cl-].[Fe+3]'
+p302
+sI302
+S'[Cl-].[Cl-].[Cl-].[La+3]'
+p303
+sI303
+S'Cl[Ru](Cl)Cl'
+p304
+sI304
+VReaxys Name iron(III)  oxide
+p305
+sI305
+S'O=[Nb](=O)O[Nb](=O)=O'
+p306
+sI306
+VBr[Ni](Br)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p307
+sI307
+S'[Cl-].[Cl-].C1C=CC=C1[Ti++]C2=CC=CC2'
+p308
+sI308
+S'Cl[Au](Cl)Cl'
+p309
+sI309
+VCl[Pd](Cl)([P](c1ccccc1)(c1ccccc1)c1ccccc1)[P](c1ccccc1)(c1ccccc1)c1ccccc1
+p310
+sI310
+VClC(Cl)Cl.O=C(C=CC1=CC=CC=C1)C=CC1=CC=CC=C1.[Pd]
+p311
+sI311
+VReaxys Name ziconium(IV) oxychloride octahydrate
+p312
+sI312
+S'[Pd++].CC([O-])=O.CC([O-])=O'
+p313
+sI313
+S'Reaxys ID 11325081'
+p314
+sI314
+S'Reaxys ID 11325350'
+p315
+sI315
+S'Reaxys ID 11325441'
+p316
+sI316
+VReaxys Name dichloro bis(acetonitrile) palladium(II)
+p317
+sI317
+VReaxys Name bis(1,5-cyclooctadiene)rhodium(I) trifluoromethanesulfonate
+p318
+sI318
+VReaxys Name (1,1'-bis(diphenylphosphino)ferrocene)palladium(II) dichloride
+p319
+sI319
+VReaxys Name Hoveyda-Grubbs catalyst second generation
+p320
+sI320
+V[H][Rh](C=O)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p321
+sI321
+VC=C[Si](C)(C)O[Si](C)(C)C=C.[Pt]
+p322
+sI322
+VCC1=CC(C)=C(N2CCN(C3=C(C)C=C(C)C=C3C)C2[Ru](Cl)(Cl)(=CC2=CC=CC=C2)P(C2CCCCC2)(C2CCCCC2)C2CCCCC2)C(C)=C1
+p323
+sI323
+S'Reaxys ID 11328717'
+p324
+sI324
+S'S=[Mo]=S'
+p325
+sI325
+S'O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.P.[W].[W].[W].[W].[W].[W].[W].[W].[W].[W].[W].[W]'
+p326
+sI326
+S'Reaxys ID 11329315'
+p327
+sI327
+VCCO[Ti](OCC)(OCC)OCC
+p328
+sI328
+VO=[N+]([O-])[O-].[Bi+3]
+p329
+sI329
+S'Reaxys ID 11332069'
+p330
+sI330
+VReaxys Name bis(acetylacetonato) palladium
+p331
+sI331
+VReaxys Name bis(acetylacetonate)nickel(II)
+p332
+sI332
+VReaxys Name copper acetylacetonate
+p333
+sI333
+VReaxys Name [rhodium(I)(carbonyl)2(acetylacetonate)]
+p334
+sI334
+S'[F-].[K+]'
+p335
+sI335
+V[InH3]
+p336
+sI336
+VReaxys Name (n-Bu)CCTMS
+p337
+sI337
+S'[Rh+3].[Rh+3].CC([O-])=O.CC([O-])=O.CC([O-])=O.CC([O-])=O'
+p338
+sI338
+V[La]
+p339
+sI339
+VReaxys Name (o-tolyl)-Hoveyda-Grubbs catalyst second generation
+p340
+sI340
+V[Mn]
+p341
+sI341
+V[Ba+2].[OH-]
+p342
+sI342
+V[OH-].[Pd+2]
+p343
+sI343
+V[K+].[OH-]
+p344
+sI344
+V[Na+].[OH-]
+p345
+sI345
+V[SeH2]
+p346
+sI346
+V[Sm]
+p347
+sI347
+V[Ti]
+p348
+sI348
+S'Reaxys ID 11342993'
+p349
+sI349
+VO=N(=O)[O-].[Zn+2]
+p350
+sI350
+VO=C([O-])[O-].[Ag+2]
+p351
+sI351
+VO=S(=O)([O-])[O-].[Mn+2]
+p352
+sI352
+VO=S(=O)([O-])[O-].[Fe+3]
+p353
+sI353
+VO=P([O-])([O-])[O-].[Fe+3]
+p354
+sI354
+VO=[Os](=O)([O-])[O-].[K+]
+p355
+sI355
+VO=[W](=O)([O-])[O-].[Na+]
+p356
+sI356
+VO=C(C=Cc1ccccc1)C=Cc1ccccc1.[Pd]
+p357
+sI357
+VReaxys Name 10 palladium on activated carbon
+p358
+sI358
+VReaxys Name palladium/active carbon
+p359
+sI359
+VReaxys Name palladium 10 on activated carbon
+p360
+sI360
+VReaxys Name palladium(II) hydroxide/carbon
+p361
+sI361
+VReaxys Name palladium on activated carbon
+p362
+sI362
+S'[Pt]'
+p363
+sI363
+VReaxys Name palladium on activated carbon
+p364
+sI364
+VReaxys Name palladium on activated carbon
+p365
+sI365
+S'[Pt]'
+p366
+sI366
+S'[Pd]'
+p367
+sI367
+S'Reaxys ID 11378932'
+p368
+sI368
+VReaxys Name Lindlar's catalyst
+p369
+sI369
+VReaxys Name palladium/alumina
+p370
+sI370
+VReaxys Name Lindlar's catalyst
+p371
+sI371
+S'Reaxys ID 11378972'
+p372
+sI372
+S'O|[Pd]|O'
+p373
+sI373
+VReaxys Name potassium fluoride on basic alumina
+p374
+sI374
+S'Reaxys ID 11383454'
+p375
+sI375
+S'Reaxys ID 11383471'
+p376
+sI376
+S'O.O=[Al]O[Al]=O.O=[Si]=O.O=[Si]=O.O=[Si]=O.O=[Si]=O'
+p377
+sI377
+S'[Ag+].F[Sb-](F)(F)(F)(F)F'
+p378
+sI378
+VReaxys Name acetylacetonatobis(ethylene)rhodium(I)
+p379
+sI379
+S'Reaxys ID 11405916'
+p380
+sI380
+VCl[Rh]([P](c1ccccc1)(c1ccccc1)c1ccccc1)([P](c1ccccc1)(c1ccccc1)c1ccccc1)[P](c1ccccc1)(c1ccccc1)c1ccccc1
+p381
+sI381
+VO=[Os](=O)(=O)=O
+p382
+sI382
+S'[Fe+3].[Br-].[Br-].[Br-]'
+p383
+sI383
+S'Cl[Rh](Cl)Cl'
+p384
+sI384
+VCl[Ni](Cl)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p385
+sI385
+S'Reaxys ID 11419037'
+p386
+sI386
+S'[Pd++].[Ba++].[O-]C([O-])=O.[O-]C([O-])=O'
+p387
+sI387
+S'C.[Pt]'
+p388
+sI388
+V[H]C(C1=CC=CC=C1)=[Ru](Cl)(Cl)(P(C1CCCCC1)(C1CCCCC1)C1CCCCC1)P(C1CCCCC1)(C1CCCCC1)C1CCCCC1
+p389
+sI389
+VCC1=CC(C)=C(N2C=CN(C3=C(C)C=C(C)C=C3C)C2[Ru](Cl)(Cl)(=CC2=CC=CC=C2)P(C2CCCCC2)(C2CCCCC2)C2CCCCC2)C(C)=C1
+p390
+sI390
+VCl[RuH](P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p391
+sI391
+VCC(C)C1=CC=CC(C(C)C)=C1N=[Mo](=CC(C)(C)C1=CC=CC=C1)(OC(C)(C(F)(F)F)C(F)(F)F)OC(C)(C(F)(F)F)C(F)(F)F
+p392
+sI392
+VReaxys Name bis(benzonitrile)palladium(II) dichloride
+p393
+sI393
+VF[B-](F)(F)F.[Ag+]
+p394
+sI394
+VO=S(=O)([O-])C(F)(F)F.[Hf+4]
+p395
+sI395
+VReaxys Name Schwartz's reagent
+p396
+sI396
+S'Reaxys ID 11573007'
+p397
+sI397
+S'[Cl-].[Cl-].[Cl-].[Yb+3]'
+p398
+sI398
+VO=[Re](=O)(=O)O[Re](=O)(=O)=O
+p399
+sI399
+VReaxys Name chloro(1,5-cyclooctadiene)rhodium(I) dimer
+p400
+sI400
+VCl[Ru](Cl)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p401
+sI401
+VReaxys Name carbonylchlorohydridetris(triphenylphosphine) ruthenium(II)
+p402
+sI402
+Vc1ccc([P](c2ccccc2)(c2ccccc2)[Pd]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1
+p403
+sI403
+VCl[Ru](Cl)(=CC=C(C1=CC=CC=C1)C1=CC=CC=C1)(P(C1CCCCC1)(C1CCCCC1)C1CCCCC1)P(C1CCCCC1)(C1CCCCC1)C1CCCCC1
+p404
+sI404
+VCC(C)[O-].[La+3]
+p405
+sI405
+VReaxys Name bis(acetylacetonato)dioxidomolybdenum(VI)
+p406
+sI406
+S'Reaxys ID 11756767'
+p407
+sI407
+VReaxys Name di-?-chloro-bis(?4-1,5-cyclooctadiene)diiridium
+p408
+sI408
+VCl[Pd](Cl)(P(C1CCCCC1)(C1CCCCC1)C1CCCCC1)P(C1CCCCC1)(C1CCCCC1)C1CCCCC1
+p409
+sI409
+VReaxys Name dichloro[[2-(1-methylethoxy-?-O)phenyl]methylene-?-C](tricyclohexylphosphine)ruthenium
+p410
+sI410
+VReaxys Name (SPY-5-31)-dichloro-(?2(C,O)-(2-isopropyloxybenzylidene))(1,3-bis(2,4,6-trimethylphenyl)-4,5-dihydroimidazol-2-ylidene)ruthenium
+p411
+sI411
+S'Reaxys ID 12591084'
+p412
+sI412
+S'[Co++].[nH]1c2ccc1c(c3ccccc3)c4ccc(n4)c(c5[nH]c(cc5)c(c6ccccc6)c7ccc(n7)c2c8ccccc8)c9ccccc9'
+p413
+sI413
+S'[Cl-].[Cl-].[Pd++].CC(C)c1cccc(C(C)C)c1N2CN(C=C2)c3c(cccc3C(C)C)C(C)C.Clc4cccnc4'
+p414
+sI414
+S'Reaxys ID 13132356'
+p415
+sI415
+S'[Al+3].[Cl-].[Cl-].[Cl-]'
+p416
+sI416
+VReaxys Name Amberlyst 15
+p417
+sI417
+S'Cl[Cu]Cl'
+p418
+sI418
+VReaxys Name molecular sieve
+p419
+sI419
+VReaxys Name palladium on activated carbon
+p420
+sI420
+VReaxys Name palladium on charcoal catalyst
+p421
+sI421
+VReaxys Name palladium on charcoal
+p422
+sI422
+VReaxys Name palladium/charcoal
+p423
+sI423
+VReaxys Name Pd on carbon
+p424
+sI424
+S'Reaxys ID 13134587'
+p425
+sI425
+S'Reaxys ID 13134917'
+p426
+sI426
+VO=[Mn]=O
+p427
+sI427
+S'Reaxys ID 13154734'
+p428
+sI428
+VO=[W](=O)([O-])[O-].[H]O[H].[Na+]
+p429
+sI429
+VO=N(=O)[O-].[Ce+4].[NH4+]
+p430
+sI430
+VO=[Ru](=O)(=O)=O
+p431
+sI431
+S'[Cl-].[Cl-].[Cl-].[V+3]'
+p432
+sI432
+S'[I-].[I-].[Sm++]'
+p433
+sI433
+S'[Cl-].[Cl-].[Cl-].[Ce+3]'
+p434
+sI434
+S'[Cl-].[Cl-].[Cl-].[Ti+3]'
+p435
+sI435
+S'[Cu]I'
+p436
+sI436
+VO=S(=O)(O[Hf](OS(=O)(=O)C(F)(F)F)(OS(=O)(=O)C(F)(F)F)OS(=O)(=O)C(F)(F)F)C(F)(F)F
+p437
+sI437
+VCl[Pd](Cl)([PH](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)[PH](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p438
+sI438
+VReaxys Name bis(triphenylphosphine)carbonylrhodium(I) chloride
+p439
+sI439
+VCCC[N+](CCC)(CCC)CCC.O=[Ru-](=O)(=O)=O
+p440
+sI440
+S'Reaxys ID 13170527'
+p441
+sI441
+VCC(=O)O[Pd](OC(C)=O)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p442
+sI442
+VC1=CC=C(P(C2=CC=CC=C2)C2=CC=CC=C2)C=C1.[Cl-].[Pd+2]
+p443
+sI443
+VReaxys Name [1,1'-bis(diphenylphosphino)ferrocene]dichloropalladium(II)
+p444
+sI444
+VC1=CC=C(P(C2=CC=CC=C2)C2=CC=CC=C2)C=C1.CC(=O)[O-].[Pd+2]
+p445
+sI445
+VCl[Rh](P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p446
+sI446
+VReaxys Name ruthenium(II)-carbonyl-tris(triphenylphosphine) dihydride
+p447
+sI447
+VReaxys Name dichloro(1,1'-bis(diphenylphosphanyl)ferrocene)palladium(II) dichloromethane adduct
+p448
+sI448
+VF[B-](F)(F)F.[Zn+2]
+p449
+sI449
+VO=S(=O)([O-])[O-].[Cu+]
+p450
+sI450
+VO=C([O-])[O-].[Cd+2]
+p451
+sI451
+VReaxys Name zirconocene dichloride
+p452
+sI452
+S'Reaxys ID 13197686'
+p453
+sI453
+V[Ag+].[C-]#N
+p454
+sI454
+VReaxys Name dicobalt octacarbonyl
+p455
+sI455
+VO=Cl(=O)(=O)[O-].[Mg+2]
+p456
+sI456
+VCl[Au](Cl)(Cl)Cl.[Na+]
+p457
+sI457
+VCl[Au](Cl)(Cl)Cl.[K+]
+p458
+sI458
+VReaxys Name amberlyst-15
+p459
+sI459
+S'[B].[Ni].[Ni]'
+p460
+sI460
+S'Reaxys ID 13241423'
+p461
+sI461
+VO=P([O-])([O-])[O-].[Ag+]
+p462
+sI462
+V[Cu].[Zn]
+p463
+sI463
+VCCCCC(CC)C(=O)[O-].[Cu+2]
+p464
+sI464
+VO=S(=O)([O-])C(F)(F)F.[Yb+2]
+p465
+sI465
+VO=Cl(=O)(=O)[O-].[Zn+2]
+p466
+sI466
+VReaxys Name CuI
+p467
+sI467
+VO=[V](F)(F)F
+p468
+sI468
+VO=Cl(=O)(=O)[O-].[Hg+2]
+p469
+sI469
+S'Reaxys ID 13383353'
+p470
+sI470
+VO=[Mn](=O)([O-])[O-].[Ba+2]
+p471
+sI471
+VCC(=O)[O-].[Cu+]
+p472
+sI472
+VCC(C)O[Ti](Cl)(Cl)OC(C)C
+p473
+sI473
+VC1=CC=C(P(CCP(C2=CC=CC=C2)C2=CC=CC=C2)C2=CC=CC=C2)C=C1.[Pd]
+p474
+sI474
+VF[P-](F)(F)(F)(F)F.[Ag+]
+p475
+sI475
+S'Reaxys ID 13670437'
+p476
+sI476
+V[H][C@@]12CCN(C[C@@H]1CC)[C@@]([H])([C@@H](OC1=C(C3=CC=CC=C3)C(O[C@@H](C3=C4C=C(OC)C=CC4=NC=C3)[C@@]3([H])C[C@]4([H])CCN3C[C@@H]4CC)=NC(C3=CC=CC=C3)=N1)C1=CC=NC3=C1C=C(OC)C=C3)C2
+p477
+sI477
+VCC(C)(C)/C([O-])=C/C(=O)C(F)(F)C(F)(F)C(F)(F)F.[Yb+3]
+p478
+sI478
+VC1=CC=CC=C1.O=S(=O)([O-])C(F)(F)F.[Cu+]
+p479
+sI479
+VO=C([O-])C1=CC=CS1.[Cu+]
+p480
+sI480
+S'[Cl-].[Cl-].[Cl-].[Sm+3]'
+p481
+sI481
+S'Reaxys ID 14199545'
+p482
+sI482
+VCC(=O)[O-].[Rh+2]
+p483
+sI483
+S'Reaxys ID 14202246'
+p484
+sI484
+VCl[Cu](Cl)(Cl)Cl.[Li+]
+p485
+sI485
+S'Reaxys ID 14203429'
+p486
+sI486
+VCl[Pd]1(Cl)P(C2=CC=CC=C2)(C2=CC=CC=C2)CCCCP1(C1=CC=CC=C1)C1=CC=CC=C1
+p487
+sI487
+VReaxys Name triiron dodecarbonyl
+p488
+sI488
+S'Reaxys ID 14205919'
+p489
+sI489
+VReaxys Name tetrakis(actonitrile)copper(I) hexafluorophosphate
+p490
+sI490
+VCC1=CC=CC=C1P(C1=CC=CC=C1C)(C1=C(C)C=CC=C1)[Pd](Cl)(Cl)P(C1=CC=CC=C1C)(C1=CC=CC=C1C)C1=C(C)C=CC=C1
+p491
+sI491
+VReaxys Name rhodium (II) octanoate dimer
+p492
+sI492
+VCC(C)(C)P([Pd]P(C(C)(C)C)(C(C)(C)C)C(C)(C)C)(C(C)(C)C)C(C)(C)C
+p493
+sI493
+VO=C(/C=C/C1=CC=CC=C1)/C=C/C1=CC=CC=C1.[Pd]
+p494
+sI494
+VCC1=CC(C)=C(N2CCN(C3=C(C)C=C(C)C=C3C)C2[Ru](Cl)(Cl)(=CC2=CC=CC=C2)P(C2CCCCC2)(C2CCCCC2)C2CCCCC2)C(C)=C1
+p495
+sI495
+S'O.[OH-].[Mg++].[Al+3].[O-]C([O-])=O'
+p496
+sI496
+S'[Cl-].[Cl-].[Cl-].CCCCCCCCCC[N+](C)(CCCCCCCCCC)CCCCCCCCCC.CCCCCCCCC[N+](C)(CCCCCCCCC)CCCCCCCCC.CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC'
+p497
+sI497
+VReaxys Name Amberlyst A-21
+p498
+sI498
+VReaxys Name 1,1'-bis(diphenylphosphanyl)ferrocenenickel(II) chloride
+p499
+sI499
+S'Reaxys ID 14252676'
+p500
+sI500
+S'[NH4+].[Ce+4].[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O.[O-][N+]([O-])=O'
+p501
+sI501
+S'Reaxys ID 14256345'
+p502
+sI502
+VBr[Pd](Br)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p503
+sI503
+VReaxys Name dichloro[1,1'-bis(di-t-butylphosphino)ferrocene]palladium(II)
+p504
+sI504
+S'OC1=C(c2ccccc2C3=C(c4ccccc4)C(=C(C3=O)c5ccccc5)c6ccccc6)C(=C(c7ccccc7)C1(c8ccccc8)c9ccccc9)c%10ccccc%10'
+p505
+sI505
+VCl[Pt](Cl)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p506
+sI506
+V[H]C(C1=CC=CC=C1)=[Ru](Cl)(Cl)(C1N(C2=C(C)C=C(C)C=C2C)CCN1C1=C(C)C=C(C)C=C1C)P(C1CCCCC1)(C1CCCCC1)C1CCCCC1
+p507
+sI507
+S'Reaxys ID 14281346'
+p508
+sI508
+VReaxys Name bis(acetylacetonate)oxovanadium
+p509
+sI509
+VC[Pd]
+p510
+sI510
+VReaxys Name cobalt-salen complex
+p511
+sI511
+VReaxys Name (1,5-cyclooctadiene)(methoxy)iridium(I) dimer
+p512
+sI512
+VReaxys Name tris(6,6,7,7,8,8-heptafluoro-2,2-dimethyl-3,5-octadionato)europium(III)
+p513
+sI513
+VC.[Pd]
+p514
+sI514
+VCC(C)(C)P(C(C)(C)C)C(C)(C)C.[Pd]
+p515
+sI515
+VReaxys Name copper(I) bromide dimethylsulfide complex
+p516
+sI516
+S'Reaxys ID 14304712'
+p517
+sI517
+S'Reaxys ID 14307417'
+p518
+sI518
+VCl[Pd](CC1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p519
+sI519
+S'Reaxys ID 14321162'
+p520
+sI520
+VReaxys Name Novozym 435
+p521
+sI521
+VReaxys Name Porcine Pancreas Lipase
+p522
+sI522
+S'Reaxys ID 14324919'
+p523
+sI523
+VReaxys Name chlorobis(cyclooctene)-iridium(I) dimer
+p524
+sI524
+VC[Si](C)(C)[N-][Si](C)(C)C.[La+3]
+p525
+sI525
+S'Reaxys ID 14332330'
+p526
+sI526
+VBr[Cu](P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p527
+sI527
+VReaxys Name di(rhodium)tetracarbonyl dichloride
+p528
+sI528
+VCl[Pd]1(Cl)P(C2=CC=CC=C2)(C2=CC=CC=C2)CCCCP1(C1=CC=CC=C1)C1=CC=CC=C1
+p529
+sI529
+S'O=[AsH4+3]'
+p530
+sI530
+VReaxys Name ?5-cyclopentadienyl dicarbonyl cobalt
+p531
+sI531
+S'[Rh+].F[B-](F)(F)F.C1CC=CCCC=C1.C2CC=CCCC=C2'
+p532
+sI532
+VCl[Ni](Cl)(P(C1CCCCC1)(C1CCCCC1)C1CCCCC1)P(C1CCCCC1)(C1CCCCC1)C1CCCCC1
+p533
+sI533
+VReaxys Name palladium(II) dichloride bis[bis(diphenylphosphine)ferrocene]
+p534
+sI534
+VC1=CC=CC=C1.O=S(=O)([O-])C(F)(F)F.[Cu+]
+p535
+sI535
+VC=C[Si](C)(C)O[Si](C)(C)C=C.[Pt]
+p536
+sI536
+V[AlH6].[Ni]
+p537
+sI537
+VCN(C)[P-](O[Mo]12(=O)([N+]3=CC=CC=C3)(OO1)OO2)(N(C)C)N(C)C
+p538
+sI538
+VReaxys Name tris(2,2-bipyridine)ruthenium(II) hexafluorophosphate
+p539
+sI539
+VC1=CC=C(P(C2=CC=CC=C2)(C2=CC=CC=C2)[Pt](P(C2=CC=CC=C2)(C2=CC=CC=C2)C2=CC=CC=C2)(P(C2=CC=CC=C2)(C2=CC=CC=C2)C2=CC=CC=C2)P(C2=CC=CC=C2)(C2=CC=CC=C2)C2=CC=CC=C2)C=C1
+p540
+sI540
+VCl[Pd]1(Cl)P(C2=CC=CC=C2)(C2=CC=CC=C2)CCCP1(C1=CC=CC=C1)C1=CC=CC=C1
+p541
+sI541
+S'[F-].[F-].[F-].[Co+3]'
+p542
+sI542
+S'Reaxys ID 14376739'
+p543
+sI543
+VCl[Pd](Cl)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p544
+sI544
+S'Reaxys ID 14383547'
+p545
+sI545
+VCl[Au]P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p546
+sI546
+S'[Br-].[Br-].[Br-].[In+3]'
+p547
+sI547
+Vc1ccc([P](c2ccccc2)(c2ccccc2)[Ni]([P](c2ccccc2)(c2ccccc2)c2ccccc2)([P](c2ccccc2)(c2ccccc2)c2ccccc2)[P](c2ccccc2)(c2ccccc2)c2ccccc2)cc1
+p548
+sI548
+S'Reaxys ID 14402699'
+p549
+sI549
+VO=S(=O)([O-])[O-].[Ce+4]
+p550
+sI550
+V[H][Ru]([H])(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p551
+sI551
+VReaxys Name dichloro(pentamethylcyclopentadienyl)rhodium (III) dimer
+p552
+sI552
+VCl[Pd]1(Cl)P(C2=CC=CC=C2)(C2=CC=CC=C2)CCCP1(C1=CC=CC=C1)C1=CC=CC=C1
+p553
+sI553
+S'[Cl-].[Cl-].[Pd++].C\\1C\\C=C/CC\\C=C1'
+p554
+sI554
+S'[Rh++].CC(C)(C)C([O-])=O.CC(C)(C)C([O-])=O'
+p555
+sI555
+VReaxys Name trans-di(?-acetato)bis[o-(di-o-tolylphosphino)benzyl]dipalladium(II)
+p556
+sI556
+VCC(C)(C)P(O)(C(C)(C)C)[Pd](Cl)(Cl)P(O)(C(C)(C)C)C(C)(C)C
+p557
+sI557
+S'CC#N.CC#N.CC#N.F[P-](F)(F)(F)(F)F.[Ru+]C1=CC=CC1'
+p558
+sI558
+S'[I-].[I-].[I-].[Sm+3]'
+p559
+sI559
+VC1=CC=C(P(C2=CC=CC=C2)C2=CC=CC=C2)C=C1.[Cu+].[HH2-]
+p560
+sI560
+S'Reaxys ID 14444215'
+p561
+sI561
+VO=S1(=O)O[Ce]2(O1)OS(=O)(=O)O2
+p562
+sI562
+VReaxys Name acetylacetonato(1,5-cyclooctadiene)rhodium(I)
+p563
+sI563
+VC1=CC=C(P([Pd]P(C2=CC=CC=C2)(C2=CC=CC=C2)C2=CC=CC=C2)(C2=CC=CC=C2)C2=CC=CC=C2)C=C1
+p564
+sI564
+S'Reaxys ID 14474144'
+p565
+sI565
+S'Reaxys ID 14474725'
+p566
+sI566
+VReaxys Name bis(bicyclo[2$dot$2$dot$1]hepta-2,5-diene)dichlorodirhodium
+p567
+sI567
+S'Reaxys ID 14475358'
+p568
+sI568
+VReaxys Name Amberlite IR-120
+p569
+sI569
+VReaxys Name Montmorillonite KSF
+p570
+sI570
+VReaxys Name chlorobis(ethylene)rhodium(I) dimer
+p571
+sI571
+S'Reaxys ID 14502072'
+p572
+sI572
+VO=S(=O)(O[Ce](OS(=O)(=O)C(F)(F)F)(OS(=O)(=O)C(F)(F)F)OS(=O)(=O)C(F)(F)F)C(F)(F)F
+p573
+sI573
+VBr[Co]1(Br)P(C2=CC=CC=C2)(C2=CC=CC=C2)CCP1(C1=CC=CC=C1)C1=CC=CC=C1
+p574
+sI574
+VCC(C)O[Ti](Cl)(Cl)Cl
+p575
+sI575
+S'Reaxys ID 14558401'
+p576
+sI576
+VO=[V](OS(=O)(=O)C(F)(F)F)OS(=O)(=O)C(F)(F)F
+p577
+sI577
+S'Reaxys ID 14568603'
+p578
+sI578
+VO=S(=O)([O-])C(F)(F)F.[Fe+3]
+p579
+sI579
+VReaxys Name Ra-Ni
+p580
+sI580
+VB.[Ni].[Ni]
+p581
+sI581
+VReaxys Name 5,10,15,20-tetrakisphenylporphyrinatoiron(III) chloride
+p582
+sI582
+VReaxys Name tris(2,2'-bipyridyl)ruthenium dichloride
+p583
+sI583
+VReaxys Name (1,2-dimethoxyethane)dichloronickel(II)
+p584
+sI584
+VCCCCCCCC(=O)[O-].[Rh+2]
+p585
+sI585
+VO=[Cr]([O-])[O-].[Cu+2]
+p586
+sI586
+VO=S(=O)([O-])C(F)(F)F.[H]O[H].[Yb+3]
+p587
+sI587
+VCl[Pd](Cl)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p588
+sI588
+VO=[N+]([O-])[O-].[H]O[H].[Ni+2]
+p589
+sI589
+VO=Cl(=O)(=O)[O-].[Cu+2].[H]O[H]
+p590
+sI590
+VCC[N+](CC)(CC)CC1=CC=CC=C1.S=[Mo](=S)([S-])[S-]
+p591
+sI591
+VCC1=CC=CC=C1.O=S(=O)([O-])C(F)(F)F.[Cu+]
+p592
+sI592
+VO=C([O-])C(F)(F)F.[Fe+3]
+p593
+sI593
+VCC(C)(C)[PH]([Pd][PH](C(C)(C)C)(C(C)(C)C)C(C)(C)C)(C(C)(C)C)C(C)(C)C
+p594
+sI594
+S'Reaxys ID 15434312'
+p595
+sI595
+VReaxys Name [Rh(OH)(cycloocta-1,5-diene)]2
+p596
+sI596
+VReaxys Name chloro(1,5-cyclooctadiene)(pentamethylcyclopentadiene)ruthenium(II)
+p597
+sI597
+VReaxys Name pentamethylcyclopentadienyl bis(triphenylphosphine)ruthenium(II) chloride
+p598
+sI598
+VO=[Re](=O)(I)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p599
+sI599
+VCC(C)C1=CC=CC(C(C)C)=C1N1C=CN(C2=C(C(C)C)C=CC=C2C(C)C)[C-]1[Pd](Cl)(Cl)[N+]1=CC=CC(Cl)=C1
+p600
+sI600
+S'O=C=[Mo](=C=O)(=C=O)(=C=O)(=C=O)=C=O'
+p601
+sI601
+S'[F-].[F-].[Ag++]'
+p602
+sI602
+VCC(C)C1=CC=CC(C(C)C)=C1N1C=CN(C2=C(C(C)C)C=CC=C2C(C)C)C1[Cu]Cl
+p603
+sI603
+VReaxys Name copper(II) ferrite
+p604
+sI604
+VReaxys Name tetrakis(acetonitrile)palladium(II) tetrafluoroborate
+p605
+sI605
+VReaxys Name [P(cyclohexyl)3]2(CO)(Cl)Ru(H)
+p606
+sI606
+VCl[Rh](P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p607
+sI607
+VReaxys Name Pd-PEPPSI-IPr
+p608
+sI608
+VCl[Ni]1(Cl)P(C2=CC=CC=C2)(C2=CC=CC=C2)CCP1(C1=CC=CC=C1)C1=CC=CC=C1
+p609
+sI609
+VCl[Ni]1(Cl)P(C2=CC=CC=C2)(C2=CC=CC=C2)CCCP1(C1=CC=CC=C1)C1=CC=CC=C1
+p610
+sI610
+S'Reaxys ID 15683196'
+p611
+sI611
+S'Reaxys ID 15687867'
+p612
+sI612
+S'[Rh+].F[B-](F)(F)F.C1CC=CCCC=C1.C2CC=CCCC=C2'
+p613
+sI613
+VC.[Pd]
+p614
+sI614
+S'Br[Mn](=C=O)(=C=O)(=C=O)(=C=O)=C=O'
+p615
+sI615
+S'Br[Re](=C=O)(=C=O)(=C=O)(=C=O)=C=O'
+p616
+sI616
+VReaxys Name bis(?3-allyl-?-chloropalladium(II))
+p617
+sI617
+VReaxys Name iron (III) acetylacetonate
+p618
+sI618
+VReaxys Name cobalt(III) acetylacetonate
+p619
+sI619
+VO=C([O-])C(F)(F)F.[Pd+2]
+p620
+sI620
+S'[Rh++].[Rh++].[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)F.[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)F.[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)F.[O-]C(=O)C(F)(F)C(F)(F)C(F)(F)F'
+p621
+sI621
+S'[F-].[F-].[Hg++]'
+p622
+sI622
+V[H][Rh](P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p623
+sI623
+S'Reaxys ID 16002517'
+p624
+sI624
+VReaxys Name [1,1?-bis(di-tert-butylphosphino)ferrocene]dichloropalladium(II)
+p625
+sI625
+S'Reaxys ID 16123563'
+p626
+sI626
+VReaxys Name (tricyclohexylphosphine)(1,5-cyclooctadiene)pyridineiridium(I) hexafluorophosphate
+p627
+sI627
+VO=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Zn+2]
+p628
+sI628
+S'Reaxys ID 16352198'
+p629
+sI629
+S'Reaxys ID 16389974'
+p630
+sI630
+S'Reaxys ID 16411004'
+p631
+sI631
+VO=S(=O)([N-]S(=O)(=O)C(F)(F)F)C(F)(F)F.[Au+]P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p632
+sI632
+S'Reaxys ID 16469094'
+p633
+sI633
+S'Reaxys ID 16469861'
+p634
+sI634
+S'Reaxys ID 16474273'
+p635
+sI635
+VCCCCCCCCCCCCCCCC[N+](C)(C)C.O=[Mn](=O)(=O)[O-]
+p636
+sI636
+S'C[Ru](C)(C)(C)(C)(Cl)(C1=CC=CCCCC1)C2=CC=CC2'
+p637
+sI637
+VBr[Ni]1(Br)P(C2=CC=CC=C2)(C2=CC=CC=C2)CCP1(C1=CC=CC=C1)C1=CC=CC=C1
+p638
+sI638
+S'Reaxys ID 16479425'
+p639
+sI639
+VReaxys Name ?5-cyclopentadienyl-?4-cycloocta-1,5-diene-cobalt(I)
+p640
+sI640
+S'Reaxys ID 16503283'
+p641
+sI641
+S'Reaxys ID 16504431'
+p642
+sI642
+S'Reaxys ID 16506048'
+p643
+sI643
+VCl[Pt-2](Cl)(Cl)(Cl)(Cl)Cl.[H+].[H]O[H]
+p644
+sI644
+VReaxys Name allyl(cyclopentadiene)palladium(II)
+p645
+sI645
+VReaxys Name bis(?5-cyclopentadienyl)titanium dichloride
+p646
+sI646
+S'Reaxys ID 16514339'
+p647
+sI647
+VCl[Nb](Cl)(Cl)(Cl)Cl
+p648
+sI648
+V[H][Rh](P(CC)(CC)CC)(P(CC)(CC)CC)P(CC)(CC)CC
+p649
+sI649
+S'Reaxys ID 16524214'
+p650
+sI650
+VO=[Mo+2]=O.[Cl-]
+p651
+sI651
+S'Reaxys ID 16535839'
+p652
+sI652
+S'Reaxys ID 16536933'
+p653
+sI653
+VReaxys Name chloro(pentamethylcyclopentadienyl)ruthenium(II) tetramer
+p654
+sI654
+VO=S(=O)([O-])C(F)(F)F.[H]O[H].[Yb+3]
+p655
+sI655
+S'Reaxys ID 16739025'
+p656
+sI656
+VC1=CC=CC=C1.O=S(=O)([O-])C(F)(F)F.[Cu+]
+p657
+sI657
+V[Au][P+](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1.[Cl-]
+p658
+sI658
+VC1=CC=C([As](C2=CC=CC=C2)(C2=CC=CC=C2)[Pd]([As](C2=CC=CC=C2)(C2=CC=CC=C2)C2=CC=CC=C2)([As](C2=CC=CC=C2)(C2=CC=CC=C2)C2=CC=CC=C2)[As](C2=CC=CC=C2)(C2=CC=CC=C2)C2=CC=CC=C2)C=C1
+p659
+sI659
+S'Reaxys ID 16831783'
+p660
+sI660
+S'Reaxys ID 16857478'
+p661
+sI661
+S'Reaxys ID 16860472'
+p662
+sI662
+S'Reaxys ID 16881112'
+p663
+sI663
+VReaxys Name (5,10,15,20-tetrakis(pentafluorophenyl)porphyrinato)iron(III) chloride
+p664
+sI664
+VO=P([O-])([O-])[O-].[K+].[Zr+4]
+p665
+sI665
+S'Reaxys ID 16884501'
+p666
+sI666
+S'Reaxys ID 16967681'
+p667
+sI667
+VReaxys Name CuCN*2LiCl
+p668
+sI668
+VI[Co]1(I)P(C2=CC=CC=C2)(C2=CC=CC=C2)CCP1(C1=CC=CC=C1)C1=CC=CC=C1
+p669
+sI669
+S'Reaxys ID 17084631'
+p670
+sI670
+VO=S(=O)([O-])C(F)(F)F.[Ce+4]
+p671
+sI671
+VO=S(=O)(O[Au]P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)C(F)(F)F
+p672
+sI672
+S'Reaxys ID 17489810'
+p673
+sI673
+VReaxys Name [(?5-C5Me5)RuCl(?2-SMe)2Ru(?5-C5Me5)Cl]
+p674
+sI674
+VReaxys Name bis(acetonitrile)(1,5-cyclooctadiene)rhodium(I) tetrafluoroborate
+p675
+sI675
+S'Reaxys ID 17742694'
+p676
+sI676
+VReaxys Name palladium(II) dichloride bis[bis(diphenylphosphine)ferrocene] dichloromethane
+p677
+sI677
+S'Reaxys ID 17797559'
+p678
+sI678
+VReaxys Name bis{rhodium[3,3'-(1,3-phenylene)bis(2,2-dimethylpropanoic acid)]}
+p679
+sI679
+S'Reaxys ID 17873285'
+p680
+sI680
+S'CC(C)c1cccc(C(C)C)c1N2C=CN(C2=[Au--]Cl)c3c(cccc3C(C)C)C(C)C'
+p681
+sI681
+VReaxys Name Amberlyst 15 resin
+p682
+sI682
+S'Reaxys ID 18763961'
+p683
+sI683
+VReaxys Name Amano PS
+p684
+sI684
+VCl[Pd]1(Cl)P(C2=CC=CC=C2)(C2=CC=CC=C2)C2=C(C=CC=C2)OC2=C(C=CC=C2)P1(C1=CC=CC=C1)C1=CC=CC=C1
+p685
+sI685
+S'O.O.O.O.O.O.O.[Cl-].[Cl-].[Cl-].[Ce+3]'
+p686
+sI686
+VO=C([O-])C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F.[Yb+3]
+p687
+sI687
+S'Reaxys ID 18885736'
+p688
+sI688
+S'O.Cl[Rh](Cl)Cl'
+p689
+sI689
+S'Reaxys ID 18923649'
+p690
+sI690
+VReaxys Name palladium 10 on activated carbon
+p691
+sI691
+VReaxys Name palladium 10 on activated carbon
+p692
+sI692
+VReaxys Name palladium 10 on activated carbon
+p693
+sI693
+S'O.O.O.Cl[Ru](Cl)Cl'
+p694
+sI694
+VO=S(=O)([O-])O.[Zr+4]
+p695
+sI695
+VReaxys Name palladium 10 on activated carbon
+p696
+sI696
+VReaxys Name Rh on carbon
+p697
+sI697
+VCN(C)C1=CC=C(P(C(C)(C)C)(C(C)(C)C)[Pd](Cl)(Cl)P(C2=CC=C(N(C)C)C=C2)(C(C)(C)C)C(C)(C)C)C=C1
+p698
+sI698
+VReaxys Name palladium 10 on activated carbon
+p699
+sI699
+S'[Rh]'
+p700
+sI700
+VReaxys Name 10 palladium on active carbon
+p701
+sI701
+S'[C+4].[OH-].[OH-].[OH-].[OH-].[OH-].[OH-].[Pd++]'
+p702
+sI702
+S'[Cu]|1.[Cu]|2.[Cu]|3.[Cu]|4.[Cu]|5.[Cu]|6.c7ccc(cc7)P(c8ccccc8)c9ccccc9.c%10ccc(cc%10)P(c%11ccccc%11)c%12ccccc%12.c%13ccc(cc%13)P(c%14ccccc%14)c%15ccccc%15.c%16ccc(cc%16)P(c%17ccccc%17)c%18ccccc%18.c%19ccc(cc%19)P(c%20ccccc%20)c%21ccccc%21.c%22ccc(cc%22)P(c%23ccccc%23)c%24ccccc%24.[H]|6.[H]|1.[H]|2.[H]|3.[H]|4.[H]|5\x08\x01\x08\x01\x08\x01'
+p703
+sI703
+VReaxys Name palladium/alumina
+p704
+sI704
+VReaxys Name [Pd(dibenzylideneacetone)2]
+p705
+sI705
+S'Reaxys ID 19235264'
+p706
+sI706
+VO=[Si]([O-])[O-].[Ag+]
+p707
+sI707
+VCl[Rh](P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)(P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+p708
+sI708
+VReaxys Name zinc/copper couple
+p709
+sI709
+S'[Pd].[Ba++].[O-][S]([O-])(=O)=O'
+p710
+sI710
+VO=S(=O)([O-])C(F)(F)F.[In+]
+p711
+sI711
+VO=[W]123O[W]45(=O)O[W]67(=O)O[W]8(=O)(O1)O[W]1([O-])([O-])(O2)O[W]29(=O)O[W]%10(=O)(O[W]%11(=O)(O[W](=O)(O2)(O1)O[W]([O-])([O-])(O8)(O6)O%11)O[W]([O-])([O-])(O4)(O%10)O7)O[W]([O-])([O-])(O3)(O9)O5.[Cr+3].[K+]
+p712
+sI712
+VC=C[Si](C)(C)O[Si](C)(C)C=C.Cl[Pt](Cl)(Cl)(Cl)(Cl)Cl.[H+]
+p713
+sI713
+VReaxys Name Lindlar catalyst
+p714
+sI714
+VReaxys Name Lindlar's catalyst
+p715
+sI715
+VReaxys Name Ru-carbon
+p716
+sI716
+VReaxys Name 4 A molecular sieve
+p717
+sI717
+VReaxys Name Amberlyst
+p718
+sI718
+VReaxys Name Amberlyst H-15
+p719
+sI719
+VReaxys Name Celite
+p720
+sI720
+VReaxys Name Dowex 50W
+p721
+sI721
+S'Reaxys ID 19268633'
+p722
+sI722
+VReaxys Name HY-Zeolite
+p723
+sI723
+S'[Mo](|[C-]#[O+])(|[C-]#[O+])(|[C-]#[O+])(|[C-]#[O+])(|[C-]#[O+])|[C-]#[O+]'
+p724
+sI724
+VReaxys Name Montmorillonite K 10
+p725
+sI725
+S'Reaxys ID 19278319'
+p726
+sI726
+VReaxys Name Montmorillonite K-10 clay
+p727
+sI727
+VReaxys Name montmorillonite K-10
+p728
+sI728
+S'Reaxys ID 19278343'
+p729
+sI729
+VReaxys Name Montmorillonite KSF clay
+p730
+sI730
+VReaxys Name Nafion-H
+p731
+sI731
+VReaxys Name palladium catalyst
+p732
+sI732
+VReaxys Name Pd catalyst
+p733
+sI733
+VReaxys Name Raney Ni (W-2)
+p734
+sI734
+VReaxys Name Raney nickel W-2
+p735
+sI735
+VReaxys Name Rh catalyst
+p736
+sI736
+VReaxys Name W-2 Raney Ni
+p737
+sI737
+VReaxys Name W-2 Raney nickel
+p738
+sI738
+VReaxys Name 1,3-bis(cyclohexyl)imidazol-2-ylideneCuCl
+p739
+sI739
+VReaxys Name rhodium trichloride 3-hydrate
+p740
+sI740
+VReaxys Name palladium 10 on activated carbon
+p741
+sI741
+VReaxys Name iron(III) chloride adsorbed on silica gel
+p742
+sI742
+VReaxys Name chloro[2-(dicyclohexylphosphino)-3,6-dimethoxy-2?,4?,6?-triisopropylbiphenyl][2-(2-aminoethyl)phenyl]Pd(II)
+p743
+sI743
+VReaxys Name palladium 10 on activated carbon
+p744
+sI744
+VReaxys Name 10 palladium on activated carbon
+p745
+sI745
+VReaxys Name palladium 10 on activated carbon
+p746
+sI746
+S'Reaxys ID 19680983'
+p747
+sI747
+S'[Pd]'
+p748
+sI748
+S'Reaxys ID 19780351'
+p749
+sI749
+S'O|[Pd]|O'
+p750
+sI750
+VReaxys Name palladium 10 on activated carbon
+p751
+sI751
+S'[Pd]'
+p752
+sI752
+VReaxys Name 5-palladium/activated carbon
+p753
+sI753
+VReaxys Name palladium on activated carbon
+p754
+sI754
+VReaxys Name palladium(II) hydroxide/carbon
+p755
+sI755
+VReaxys Name palladium 10 on activated carbon
+p756
+sI756
+VReaxys Name palladium 10 on activated carbon
+p757
+sI757
+VReaxys Name palladium 10 on activated carbon
+p758
+sI758
+VReaxys Name palladium over charcoal
+p759
+sI759
+VReaxys Name 5 palladium over charcoal
+p760
+sI760
+VReaxys Name palladium 10 on activated carbon
+p761
+sI761
+VReaxys Name palladium 10 on activated carbon
+p762
+sI762
+VReaxys Name palladium 10 on activated carbon
+p763
+sI763
+VReaxys Name palladium 10 on activated carbon
+p764
+sI764
+VReaxys Name palladium 10 on activated carbon
+p765
+sI765
+VReaxys Name palladium 10 on activated carbon
+p766
+sI766
+VReaxys Name palladium 10 on activated carbon
+p767
+sI767
+VReaxys Name palladium 10 on activated carbon
+p768
+sI768
+VReaxys Name palladium on activated carbon
+p769
+sI769
+VReaxys Name palladium 10 on activated carbon
+p770
+sI770
+VReaxys Name palladium 10 on activated carbon
+p771
+sI771
+VReaxys Name zinc/copper couple
+p772
+sI772
+VReaxys Name palladium 10 on activated carbon
+p773
+sI773
+VReaxys Name palladium 10 on activated carbon
+p774
+sI774
+VReaxys Name palladium 10 on activated carbon
+p775
+sI775
+VReaxys Name palladium 10 on activated carbon
+p776
+sI776
+VReaxys Name palladium(II) hydroxide/carbon
+p777
+sI777
+VReaxys Name palladium 10 on activated carbon
+p778
+sI778
+VReaxys Name X-Phos aminobiphenyl palladium chloride precatalyst
+p779
+sI779
+VReaxys Name palladium 10 on activated carbon
+p780
+sI780
+VReaxys Name copper nanoparticles on activated carbon
+p781
+sI781
+VReaxys Name palladium 10 on activated carbon
+p782
+sI782
+VReaxys Name palladium 10 on activated carbon
+p783
+sI783
+VReaxys Name palladium 10 on activated carbon
+p784
+sI784
+VReaxys Name palladium 10 on activated carbon
+p785
+sI785
+VReaxys Name palladium 10 on activated carbon
+p786
+sI786
+VReaxys Name 10 palladium hydroxide on charcoal
+p787
+sI787
+VReaxys Name 5 rhodium-on-charcoal
+p788
+sI788
+VReaxys Name 10  platinum on carbon
+p789
+sI789
+VReaxys Name 5 palladium on charcoal
+p790
+sI790
+VReaxys Name palladium 10 on activated carbon
+p791
+sI791
+S'[Pd]'
+p792
+sI792
+S'[Pd]'
+p793
+sI793
+VReaxys Name palladium 10 on activated carbon
+p794
+sI794
+VReaxys Name 5 Pd(II)/C(eggshell)
+p795
+sI795
+VReaxys Name palladium hydroxide on carbon 20
+p796
+sI796
+S'O|[Pd]|O'
+p797
+sI797
+S'[Pd]'
+p798
+sI798
+VReaxys Name 20 palladium(II) hydroxide on carbon
+p799
+sI799
+S'[Pt]'
+p800
+sI800
+S'C.[Pt]'
+p801
+sI801
+VReaxys Name rhodium contaminated with carbon
+p802
+sI802
+VReaxys Name palladium on activated carbon
+p803
+s.
