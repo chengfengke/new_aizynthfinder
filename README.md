@@ -86,7 +86,7 @@ git clone https://github.com/nx-xn2002/aizynthfinder-web.git
 
 4. 配置并启动后端
 
-在外部其他目录下，运行拉取后端依赖包
+运行拉取后端依赖包
 
 ```bash
 git clone https://github.com/chengfengke/new_aizynthfinder.git
